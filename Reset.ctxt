@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=redPieces\ greenPieces
+comment0.target=void\ playAgain(playerPieces[],\ playerPieces[])
+comment1.params=leftPiece
+comment1.target=void\ leftSide(playerPieces)
+comment2.params=rightPiece
+comment2.target=void\ rightSide(playerPieces)
+comment3.params=all
+comment3.target=void\ headDown(playerPieces)
+numComments=4
